@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:background="@drawable/bottom_sheet_bg"
+    android:orientation="vertical"
+    tools:context=".fragments.InputBottomSheet">
+<ImageView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    android:id="@+id/close"
+    android:src="@drawable/ic_close"
+    />
+    <EditText
+        android:hint="Enter drawing name:"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/name"
+        android:layout_margin="10dp"/>
+    <EditText
+        android:hint="Enter creator name:"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/creator"
+        android:layout_margin="10dp"/>
+    <EditText
+        android:hint="Enter description:"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/desc"
+        android:layout_margin="10dp"/>
+    <EditText
+        android:hint="Contributors(write ',' separated):"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/contri"
+        android:layout_margin="10dp"/>
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/update"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:background="@drawable/rounded_bg"
+        android:text="Update"
+        android:textColor="@color/white"
+        android:layout_gravity="center"
+        android:textSize="18sp"
+        android:layout_margin="20dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:padding="20dp"
+        android:layout_gravity="center"
+        android:id="@+id/msg"
+        android:text="All parameters are added."/>
+</LinearLayout>
