@@ -23,10 +23,9 @@
 
 
 ## Screenshots
-
-![WhatsApp Image 2023-05-20 at 1 53 08 AM (2)](https://github.com/shiv1406/DrawingApp/assets/87936961/d02b03da-8119-4af8-9c37-7a04e52156c0)
-![WhatsApp Image 2023-05-20 at 1 53 08 AM (1)](https://github.com/shiv1406/DrawingApp/assets/87936961/c8f9bba0-94e2-476e-aa05-8dfacc0e4bdf)
-![WhatsApp Image 2023-05-20 at 1 53 08 AM](https://github.com/shiv1406/DrawingApp/assets/87936961/6fd78750-e000-47d9-9c66-96c16882c414)
-![WhatsApp Image 2023-05-20 at 1 53 07 AM](https://github.com/shiv1406/DrawingApp/assets/87936961/d59d75ba-134a-4afa-b910-ec457e0a47b2)
+![WhatsApp Image 2023-05-20 at 1 53 08 AM (2)](https://github.com/shiv1406/Drawing_App/assets/87936961/e05009d6-842f-4fd6-9c0d-27b5d578b29b)
+![WhatsApp Image 2023-05-20 at 1 53 08 AM (1)](https://github.com/shiv1406/Drawing_App/assets/87936961/4ed3fa04-af30-4e59-a493-12ff0cb34d69)
+![WhatsApp Image 2023-05-20 at 1 53 08 AM](https://github.com/shiv1406/Drawing_App/assets/87936961/660091fb-84e3-4b04-83bf-f0e2321461d7)
+![WhatsApp Image 2023-05-20 at 1 53 07 AM](https://github.com/shiv1406/Drawing_App/assets/87936961/97b9d467-7356-4052-a2a0-08d03f749a21)
 
 
